@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971170347801",
+    "project_id": "homeservices-32da6",
+    "storage_bucket": "homeservices-32da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971170347801:android:aed399d6bcc36bb30aa388",
+        "android_client_info": {
+          "package_name": "com.smartersvision.home_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxAEceUWMTjib7BS5DAp8pSIAR-xpNp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971170347801:android:072fdfb99b3233540aa388",
+        "android_client_info": {
+          "package_name": "com.smartersvision.home_services_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxAEceUWMTjib7BS5DAp8pSIAR-xpNp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
